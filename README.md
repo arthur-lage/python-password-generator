@@ -1,53 +1,38 @@
-# NAME OF THE PROJECT
+# Python Password Generator
 
 ## ✉ About
 
-A brief description of the project.
+I created this project with the goal to improve my python skills and also get better at the language syntax.
+With this app, you can generate passwords with the desired length and use symbols if you want.
 
 ## 🌆 Images
 
-Add your images here.
+<img src="./assets/screenshot.png" alt="Generating a password with symbols and 15 characters using the terminal" />
 
 ## ⚠ Requirements
 
 In order to run the project, you will need:
 
-- Node
-- A web browser (Chrome, Firefox, Edge, etc...)
+Python
 
 ## 💻 Technologies Used
 
-### FRONTEND
+## LANGUAGE
 
-- HTML
-- CSS
-- JavaScript
-
-### BACKEND
-
-- Node.js
-- Express
+- Python
 
 ### EDITOR
 
-- Visual Studio Code
+- Vim (Vi Improved)
 
 ## ⬇ How to download the project
 
 ```bash
 
-git clone https://github.com/example.git
+git clone https://github.com/arthur-lage/python-password-generator.git
 
-cd example
+cd python-password-generator
 
-npm install
-
-npm run dev
+python ./main.py
 
 ```
-
-## 🔗 How to use the app
-
-If you wish to test the application, click the link below:
-
-[app](https://link-to-your-app.com)
