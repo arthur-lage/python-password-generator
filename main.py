@@ -19,7 +19,7 @@ def generate_password(password_length, use_symbols):
 
     return password;
 
-password_length = input("Choose the length for your password (numbers only): ")
+password_length = int(input("Choose the length for your password (numbers only): "));
 
 use_symbols = str(input("Do you want to include symbols like ! or @ in your password (y/n)? "));
 
